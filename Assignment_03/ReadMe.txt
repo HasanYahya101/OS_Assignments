@@ -1,0 +1,1 @@
+Question 2 has been solved using 2 C++ Programs ie: Producer and Consumer Files. But it has also been solved using a single file Thread based approach in the Thread File.
