@@ -1,3 +1,0 @@
-Mean: 297.953491
-Median: 78.000000
-Standard Deviation: 523.334473
